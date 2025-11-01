@@ -1,0 +1,3 @@
+C:/Users/user/Documents/project-society/build/CMakeFiles/hello.dir
+C:/Users/user/Documents/project-society/build/CMakeFiles/edit_cache.dir
+C:/Users/user/Documents/project-society/build/CMakeFiles/rebuild_cache.dir
